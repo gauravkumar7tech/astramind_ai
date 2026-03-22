@@ -101,7 +101,7 @@ An AI-powered business intelligence platform that transforms raw company data in
 - **Storage buckets** for uploaded CSV/Excel files
 
 ### AI Integration
-- **Lovable AI Gateway** (Gemini) for natural language processing
+- **AstraMind AI Gateway** (Gemini) for natural language processing
 - **SQL generation** — AI converts questions to database queries
 - **Insight generation** — pattern detection and explanation
 - **Forecasting** — trend analysis and prediction
